@@ -19,7 +19,7 @@
             "url": "https://velvety-gnome-2e028c.netlify.app/"
         },
         {
-            "cover": "https://www.pexels.com/photo/white-drawer-in-the-wardrobe-5705490/",
+            "cover": "https://images.pexels.com/photos/5705490/pexels-photo-5705490.jpeg?auto=compress&cs=tinysrgb&w=600",
             "title": "Wardrobe Management",
             "description": "Vue3 & Lavarel",
             "url": "https://wardrobe-frontend.vercel.app/"
