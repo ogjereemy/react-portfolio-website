@@ -4,7 +4,7 @@
             "cover": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "title": "Fit-Track",
             "description": "React, JSX, Boot-strap, CSS, Flask, python",
-            "url": "https://fit-track-git-main-ogjereemys-projects.vercel.app/"
+            "url": "https://fit-track-lovat.vercel.app/"
         },
         {
             "cover": "https://images.pexels.com/photos/889831/pexels-photo-889831.jpeg?auto=compress&cs=tinysrgb&w=300",
@@ -17,6 +17,12 @@
             "title": "AJA movies",
             "description": "React, JS, CSS, JSON",
             "url": "https://velvety-gnome-2e028c.netlify.app/"
+        },
+        {
+            "cover": "https://www.pexels.com/photo/white-drawer-in-the-wardrobe-5705490/",
+            "title": "Wardrobe Management",
+            "description": "Vue3 & Lavarel",
+            "url": "https://wardrobe-frontend.vercel.app/"
         }
     ]
 }
